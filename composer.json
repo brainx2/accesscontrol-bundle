@@ -1,5 +1,5 @@
 {
-    "name": "rheck/accesscontrol-bundle",
+    "name": "brainx2/accesscontrol-bundle",
     "description": "Bundle to control the user access.",
     "keywords": ["annotations","authorization","access","permission"],
     "homepage": "https://github.com/rheck/accesscontrol-bundle",
